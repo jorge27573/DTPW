@@ -25,6 +25,7 @@
              
             $concatenacion =$saludo . ' Me llamo '. $nombre . ' y tengo '. $edad . 'años';
 
+            //Mostramos en pantalla los resultados
             echo $concatenacion;
             ;?>
          

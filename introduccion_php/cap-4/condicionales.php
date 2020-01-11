@@ -35,6 +35,7 @@
                     echo 'el numero 1 y el numero 2 son iguales';
                 }else{
                     echo 'el numero 1 y el numero 2 no son iguales';
+                
                 }
 
             ;?>

@@ -12,6 +12,7 @@
     <section class="contenido">
         <h1>Aprendiendo Php</h1>
         <article class="content">
+        <!-- Imprimimos en la Pantalla -->
             <?php  echo 'Hola Mundo' ;?>
             <?php echo '<h2>Hola de nuevo</h2>';?>
         

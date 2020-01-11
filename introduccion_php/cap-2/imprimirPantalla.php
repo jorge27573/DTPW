@@ -15,7 +15,11 @@
         <article class="content">
             <?php  echo 'Hola Mundo' ;?>
             <?php echo '<h2>Hola de nuevo</h2>';?>
+
+            <!-- Utilizamos la funcion echo -->
             <?php echo '<h3>Hola Mundo de Nuevo estamos imprimiendo este mensaje en pantalla con la funcion <blockquote>&ldquo;echo&rdquo;</blockquete></h3>';?>
+
+            <!-- Utilizamos la funcion print -->
             <?php print '<h3>Hola Mundo de Nuevo estamos imprimiendo este mensaje en pantalla con la funcion <blockquote>&ldquo;print&rdquo;</blockquote</h3>';?>
         
         </article>
