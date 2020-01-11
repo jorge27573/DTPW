@@ -1,0 +1,21 @@
+html{
+    background: #00bbff;
+}
+
+.contenido{
+    background: #fff;
+    margin: 0 auto;
+    width: 80%;
+    height: 100vw;
+}
+h1,h2,h3{
+    text-align: center;
+    padding: 1em;
+}
+.content{
+    width: 50%;
+    /* height: 10vw; */
+    background: #dcdcdc;
+    margin: 0 auto;
+    padding: 1em;
+}
