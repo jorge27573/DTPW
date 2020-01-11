@@ -17,12 +17,18 @@
                $estudiante = array(
                     'nombre' => 'Jorge',
                     'apellidos' =>'Toledo Moreno',
-                    'pais'=>'España'
+                    'pais'=>'España',
+                    'edad ' => 46,
+                    'usuario_logeado' => true
                );
-               echo $estudiante['nombre'] . " " . $estudiante['apellidos'] . " " . $estudiante['pais'];
-             echo '<pre>';
-                print_r( $estudiante);
-            echo '</pre>';
+               
+                echo '<pre>';
+                    var_dump($estudiante);
+                echo '</pre>';
+                
+                echo '<pre>';
+                    print_r( $estudiante);
+                echo '</pre>';
             ;?>
          
         
